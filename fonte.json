@@ -1,4 +1,37 @@
 {
-  "name": "Minha Fonte",
-  "downloads": []
+  "name": "Arthur Games - Open Source",
+  "downloads": [
+    {
+      "title": "SuperTuxKart",
+      "fileSize": "Consultar",
+      "uploadDate": "2026-11-06T00:00:00.000Z",
+      "uris": [
+        "https://github.com/supertuxkart/stk-code/releases/download/1.5/SuperTuxKart-1.5-installer-x86_64.exe"
+      ]
+    },
+    {
+      "title": "OpenRA",
+      "fileSize": "58.43 MB",
+      "uploadDate": "2026-11-06T00:00:00.000Z",
+      "uris": [
+        "https://github.com/OpenRA/OpenRA/releases/download/release-20250330/OpenRA-release-20250330-x64.exe"
+      ]
+    },
+    {
+      "title": "Luanti",
+      "fileSize": "Consultar",
+      "uploadDate": "2026-11-06T00:00:00.000Z",
+      "uris": [
+        "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0.exe"
+      ]
+    },
+    {
+      "title": "SuperTux",
+      "fileSize": "Consultar",
+      "uploadDate": "2026-11-06T00:00:00.000Z",
+      "uris": [
+        "https://github.com/SuperTux/supertux/releases/download/v0.7.0/SuperTux-v0.7.0-win64.msi"
+      ]
+    }
+  ]
 }
